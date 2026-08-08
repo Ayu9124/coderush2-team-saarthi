@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    background-color: #FAF5EF;
+    color: #2C1F18;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Background Subtle Forensic Watermark Grid */
+.bg-forensic-pattern {
+  background-color: #FAF5EF;
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(202, 139, 75, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(140, 93, 51, 0.10) 0%, transparent 45%),
+    linear-gradient(to right, rgba(140, 93, 51, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(140, 93, 51, 0.04) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 40px 40px, 40px 40px;
+}
+
+/* Golden Metallic Button Gradient */
+.bg-bronze-metallic {
+  background: linear-gradient(135deg, #A67443 0%, #754B26 100%);
+  box-shadow: 0 4px 14px rgba(117, 75, 38, 0.25);
+}
+.bg-bronze-metallic:hover {
+  background: linear-gradient(135deg, #B57F48 0%, #8C5D33 100%);
+  box-shadow: 0 6px 20px rgba(117, 75, 38, 0.35);
+}
+
+/* Golden 3D Magnifying Glass Emblem Frame */
+.emblem-gold-ring {
+  background: linear-gradient(145deg, #F5DFB3 0%, #B88544 50%, #6E491F 100%);
+  padding: 3px;
+  border-radius: 9999px;
+  box-shadow: 0 8px 25px rgba(140, 93, 51, 0.22), inset 0 2px 4px rgba(255, 255, 255, 0.6);
+}
+
+.emblem-gold-inner {
+  background: radial-gradient(circle at 35% 35%, #FFFDF9 0%, #F5EBE1 70%, #EBDCCF 100%);
+  border-radius: 9999px;
+}
+
+/* 3D Realistic Leather Bound Case Dossier Book */
+.case-book-3d {
+  background: linear-gradient(135deg, #38281F 0%, #261B14 60%, #17100B 100%);
+  border: 1px solid #5F422E;
+  border-left: 6px solid #1C130E;
+  box-shadow: 
+    -4px 4px 10px rgba(0, 0, 0, 0.3),
+    10px 15px 30px rgba(44, 31, 24, 0.25),
+    inset 0 1px 2px rgba(255, 255, 255, 0.15);
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.case-book-3d:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 
+    -6px 12px 20px rgba(0, 0, 0, 0.35),
+    15px 25px 40px rgba(140, 93, 51, 0.3),
+    inset 0 1px 2px rgba(255, 255, 255, 0.25);
+}
+
+/* Parchment Label Center Badge */
+.parchment-label {
+  background: linear-gradient(180deg, #FAF4E8 0%, #EFE1C8 100%);
+  border: 1px solid #C8B393;
+  box-shadow: inset 0 0 10px rgba(140, 93, 51, 0.15), 0 2px 5px rgba(0,0,0,0.2);
+  position: relative;
+}
+
+/* Brass Corner Clips */
+.corner-clip {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border: 1px solid #B88544;
+  background: linear-gradient(135deg, #DDAF7D 0%, #8C5D33 100%);
+}
+.corner-clip-tl { top: -2px; left: -2px; border-radius: 2px 0 0 0; }
+.corner-clip-tr { top: -2px; right: -2px; border-radius: 0 2px 0 0; }
+.corner-clip-bl { bottom: -2px; left: -2px; border-radius: 0 0 0 2px; }
+.corner-clip-br { bottom: -2px; right: -2px; border-radius: 0 0 2px 0; }
+
+/* Red Hanging Bookmark Ribbon */
+.ribbon-red {
+  position: absolute;
+  bottom: -14px;
+  left: 20px;
+  width: 14px;
+  height: 24px;
+  background: linear-gradient(180deg, #B91C1C 0%, #7F1D1D 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 75%, 0 100%);
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+/* Glowing Laser Beam Sweep Scanning Animation */
+@keyframes laserScanSweep {
+  0% {
+    top: 0%;
+    opacity: 0.2;
+  }
+  50% {
+    top: 95%;
+    opacity: 1;
+  }
+  100% {
+    top: 0%;
+    opacity: 0.2;
+  }
+}
+
+.animate-laser-scan {
+  animation: laserScanSweep 1.8s ease-in-out infinite;
+}
+
+/* 3D Flip Card Perspective */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+/* Smooth custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF5EF;
+}
+::-webkit-scrollbar-thumb {
+  background: #DDAF7D;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8C5D33;
+}
+
