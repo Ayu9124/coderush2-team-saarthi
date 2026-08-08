@@ -1,0 +1,13 @@
+{
+  "case_id": "CASE-0024",
+  "caseId": "CASE-0024",
+  "title": "Scam  Call",
+  "overall_risk_score": 85,
+  "status": "IN_REVIEW",
+  "victim": "Ayush Patil",
+  "loss_amount": "\u20b92000",
+  "date": "08 Aug 2026",
+  "description": "Ingested multimodal forensic case. Multi-agent analysis active.",
+  "investigator_id": "INV-8821-DELHI",
+  "evidences": []
+}

@@ -1,0 +1,27 @@
+================================================================================
+                   SARTHI DIGITAL FORENSICS INVESTIGATOR DOSSIER Notebook
+================================================================================
+CASE ID:        CASE-0026
+CASE TITLE:     VoIP Vishing Syndicate
+INVESTIGATOR:   Analyst (INV-8821-DELHI)
+VICTIM NAME:    Anil Deshmukh
+LOSS AMOUNT:    ₹4,80,000
+GENERATED ON:   2026-08-08 04:16:04
+STATUS:         LIVE_FEED_FLAGGED
+--------------------------------------------------------------------------------
+CASE DESCRIPTION & INVESTIGATOR NOTES:
+"[REALTIME TELEMETRY: CYBER_HELPLINE_1930] Intercepted 1930 helpline recording of automated deepfake caller impersonating HDFC Fraud Cell."
+
+--------------------------------------------------------------------------------
+CHAIN OF CUSTODY & EVIDENCE CHECKSUMS (SHA-256):
+  [1] AUDIO: Live_AUDIO_VOIP_Feed.wav
+      SHA-256: e5ea8c9c30b750c794d9068f0774d07c8a51c946a42062c4bacaf5b60592fe88
+      PATH:    uploads/CASE-0026/Live_AUDIO_VOIP_Feed.wav
+--------------------------------------------------------------------------------
+AUTOMATED AI ENSEMBLE SIGNALS:
+  - Neural TTS Voice Clone Agent:     Flagged (92% Confidence)
+  - Document Layout Forgery Agent:    Flagged (95% Confidence)
+  - Multi-Agent Topology Fusion:     Critical Risk (Score 88/100)
+================================================================================
+               [ CONFIDENTIAL • ISO 27037 FORENSIC EVIDENCE RECORD ]
+================================================================================

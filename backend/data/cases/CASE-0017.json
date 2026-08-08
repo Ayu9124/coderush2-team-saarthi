@@ -1,0 +1,42 @@
+{
+  "case_id": "CASE-0017",
+  "caseId": "CASE-0017",
+  "title": "Bank Fraud",
+  "overall_risk_score": 88,
+  "status": "EVIDENCE_FLAGGED",
+  "victim": "Ramesh K. (Redacted)",
+  "loss_amount": "\u20b92,45,000",
+  "date": "12 May 2025",
+  "description": "Synthesized Vishing call received impersonating State Bank manager requesting OTP. Fraudulent transfer attempt to Axis Bank mule account ACC-8812.\n\nhello mate",
+  "investigator_id": "INV-8821-DELHI",
+  "evidences": [
+    {
+      "id": "audio-1",
+      "category": "audio",
+      "name": "ATM CCTV Footage (2:30 - 3:00)",
+      "sub": "2:30 - 3:00",
+      "hash": "e4f1a2b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6"
+    },
+    {
+      "id": "video-1",
+      "category": "video",
+      "name": "Transaction Log",
+      "sub": "(video.mp4)",
+      "hash": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3"
+    },
+    {
+      "id": "doc-1",
+      "category": "document",
+      "name": "Bank Statement",
+      "sub": "(statement.pdf)",
+      "hash": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2"
+    },
+    {
+      "id": "img-1",
+      "category": "image",
+      "name": "Suspect Profile",
+      "sub": "(profile.jpg)",
+      "hash": "f6e5d4c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5"
+    }
+  ]
+}

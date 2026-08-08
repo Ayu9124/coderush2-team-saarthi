@@ -1,0 +1,35 @@
+================================================================================
+                   SARTHI DIGITAL FORENSICS INVESTIGATOR DOSSIER Notebook
+================================================================================
+CASE ID:        CASE-0027
+CASE TITLE:     VoIP Vishing Syndicate
+INVESTIGATOR:   Analyst (INV-8821-DELHI)
+VICTIM NAME:    Anil Deshmukh
+LOSS AMOUNT:    ₹4,80,000
+GENERATED ON:   2026-08-08 06:58:36
+STATUS:         LIVE_FEED_FLAGGED
+--------------------------------------------------------------------------------
+CASE DESCRIPTION & INVESTIGATOR NOTES:
+"[REALTIME TELEMETRY: CYBER_HELPLINE_1930] Intercepted 1930 helpline recording of automated deepfake caller impersonating HDFC Fraud Cell.
+
+Good Morning"
+
+--------------------------------------------------------------------------------
+CHAIN OF CUSTODY & EVIDENCE CHECKSUMS (SHA-256):
+  [1] AUDIO: Live_AUDIO_VOIP_Feed.wav
+      SHA-256: 80602840f302166702c67c82cd74374498bfe7bfcb3ef477b26c4b6ae791d675
+      PATH:    uploads/CASE-0027/Live_AUDIO_VOIP_Feed.wav
+  [2] IMAGE: Screenshot 2026-08-08 061614.png
+      SHA-256: 5da6d6dc0ffe2f102ee1c64216bf1b800a4bdf745b4b3108d8b70a4a0632f247
+      PATH:    uploads/CASE-0027/Screenshot 2026-08-08 061614.png
+  [3] VIDEO: Screen Recording 2026-08-08 011549.mp4
+      SHA-256: fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4
+      PATH:    uploads/CASE-0027/Screen Recording 2026-08-08 011549.mp4
+--------------------------------------------------------------------------------
+AUTOMATED AI ENSEMBLE SIGNALS:
+  - Neural TTS Voice Clone Agent:     Flagged (92% Confidence)
+  - Document Layout Forgery Agent:    Flagged (95% Confidence)
+  - Multi-Agent Topology Fusion:     Critical Risk (Score 88/100)
+================================================================================
+               [ CONFIDENTIAL • ISO 27037 FORENSIC EVIDENCE RECORD ]
+================================================================================

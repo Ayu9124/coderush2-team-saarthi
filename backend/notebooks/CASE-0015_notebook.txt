@@ -1,0 +1,39 @@
+================================================================================
+                   SARTHI DIGITAL FORENSICS INVESTIGATOR DOSSIER Notebook
+================================================================================
+CASE ID:        CASE-0015
+CASE TITLE:     Investment Scam
+INVESTIGATOR:   Analyst (INV-8821-DELHI)
+VICTIM NAME:    Priya S. (Redacted)
+LOSS AMOUNT:    ₹8,50,000
+GENERATED ON:   2026-08-08 07:05:15
+STATUS:         IN_REVIEW
+--------------------------------------------------------------------------------
+CASE DESCRIPTION & INVESTIGATOR NOTES:
+"Deepfake AI voice & spoofed Telegram channel promoting high-yield crypto trading scam. Victims coerced into transferring ₹8,50,000 to offshore liquidity pool."
+
+--------------------------------------------------------------------------------
+CHAIN OF CUSTODY & EVIDENCE CHECKSUMS (SHA-256):
+  [1] AUDIO: Telegram Voice Call
+      SHA-256: c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4
+      PATH:    uploads/CASE-0015/Telegram Voice Call
+  [2] VIDEO: Crypto Wallet Transfer Log
+      SHA-256: d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5
+      PATH:    uploads/CASE-0015/Crypto Wallet Transfer Log
+  [3] DOCUMENT: Investment Agreement
+      SHA-256: e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6
+      PATH:    uploads/CASE-0015/Investment Agreement
+  [4] IMAGE: Fraudulent Ledger Screenshot
+      SHA-256: f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9
+      PATH:    uploads/CASE-0015/Fraudulent Ledger Screenshot
+  [5] VIDEO: Screen Recording 2026-08-08 011549.mp4
+      SHA-256: fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4
+      PATH:    uploads/CASE-0015/Screen Recording 2026-08-08 011549.mp4
+--------------------------------------------------------------------------------
+AUTOMATED AI ENSEMBLE SIGNALS:
+  - Neural TTS Voice Clone Agent:     Flagged (92% Confidence)
+  - Document Layout Forgery Agent:    Flagged (95% Confidence)
+  - Multi-Agent Topology Fusion:     Critical Risk (Score 88/100)
+================================================================================
+               [ CONFIDENTIAL • ISO 27037 FORENSIC EVIDENCE RECORD ]
+================================================================================

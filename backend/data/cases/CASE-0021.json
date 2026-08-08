@@ -1,0 +1,62 @@
+{
+  "case_id": "CASE-0021",
+  "caseId": "CASE-0021",
+  "title": "System  Hacking",
+  "overall_risk_score": 85,
+  "status": "IN_REVIEW",
+  "victim": "Piysh Gosavi",
+  "loss_amount": "\u20b92",
+  "date": "08 Aug 2026",
+  "description": "Ingested multimodal forensic case. Multi-agent analysis active.",
+  "investigator_id": "INV-8821-DELHI",
+  "evidences": [
+    {
+      "id": "ev-1786137095",
+      "category": "video",
+      "name": "Screen Recording 2026-08-08 011549.mp4",
+      "sub": "(Screen Recording 2026-08-08 011549.mp4)",
+      "hash": "fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4",
+      "url": "/static-uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4"
+    },
+    {
+      "id": "ev-1786138138",
+      "category": "document",
+      "name": "Participants Handbook and Problem Statements.pdf",
+      "sub": "(Participants Handbook and Problem Statements.pdf)",
+      "hash": "dd692d3471660f921964a4c3d19eae36f76391393e8adbd1777aea2c65726fea",
+      "url": "/static-uploads/CASE-0021/Participants Handbook and Problem Statements.pdf"
+    },
+    {
+      "id": "ev-1786138166",
+      "category": "video",
+      "name": "Screen Recording 2026-08-08 011549.mp4",
+      "sub": "(Screen Recording 2026-08-08 011549.mp4)",
+      "hash": "fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4",
+      "url": "/static-uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4"
+    },
+    {
+      "id": "ev-1786138225",
+      "category": "video",
+      "name": "Screen Recording 2026-08-08 011549.mp4",
+      "sub": "(Screen Recording 2026-08-08 011549.mp4)",
+      "hash": "fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4",
+      "url": "/static-uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4"
+    },
+    {
+      "id": "ev-1786140223",
+      "category": "image",
+      "name": "Screenshot 2026-08-08 010313.png",
+      "sub": "(Screenshot 2026-08-08 010313.png)",
+      "hash": "4835e22670b429205bd35f3168535318a7953d0e93002b052e0844a1a9c7c62f",
+      "url": "/static-uploads/CASE-0021/Screenshot 2026-08-08 010313.png"
+    },
+    {
+      "id": "ev-1786155330",
+      "category": "video",
+      "name": "Screen Recording 2026-08-08 011549.mp4",
+      "sub": "(Screen Recording 2026-08-08 011549.mp4)",
+      "hash": "fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4",
+      "url": "/static-uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4"
+    }
+  ]
+}

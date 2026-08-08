@@ -1,0 +1,38 @@
+================================================================================
+                   SARTHI DIGITAL FORENSICS INVESTIGATOR DOSSIER Notebook
+================================================================================
+CASE ID:        CASE-0017
+CASE TITLE:     Bank Fraud
+INVESTIGATOR:   Analyst (INV-8821-DELHI)
+VICTIM NAME:    Ramesh K. (Redacted)
+LOSS AMOUNT:    ₹2,45,000
+GENERATED ON:   2026-08-08 02:38:18
+STATUS:         EVIDENCE_FLAGGED
+--------------------------------------------------------------------------------
+CASE DESCRIPTION & INVESTIGATOR NOTES:
+"Synthesized Vishing call received impersonating State Bank manager requesting OTP. Fraudulent transfer attempt to Axis Bank mule account ACC-8812.
+
+hello mate"
+
+--------------------------------------------------------------------------------
+CHAIN OF CUSTODY & EVIDENCE CHECKSUMS (SHA-256):
+  [1] AUDIO: ATM CCTV Footage (2:30 - 3:00)
+      SHA-256: e4f1a2b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6
+      PATH:    uploads/CASE-0017/ATM CCTV Footage (2:30 - 3:00)
+  [2] VIDEO: Transaction Log
+      SHA-256: b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3
+      PATH:    uploads/CASE-0017/Transaction Log
+  [3] DOCUMENT: Bank Statement
+      SHA-256: a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2
+      PATH:    uploads/CASE-0017/Bank Statement
+  [4] IMAGE: Suspect Profile
+      SHA-256: f6e5d4c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5
+      PATH:    uploads/CASE-0017/Suspect Profile
+--------------------------------------------------------------------------------
+AUTOMATED AI ENSEMBLE SIGNALS:
+  - Neural TTS Voice Clone Agent:     Flagged (92% Confidence)
+  - Document Layout Forgery Agent:    Flagged (95% Confidence)
+  - Multi-Agent Topology Fusion:     Critical Risk (Score 88/100)
+================================================================================
+               [ CONFIDENTIAL • ISO 27037 FORENSIC EVIDENCE RECORD ]
+================================================================================

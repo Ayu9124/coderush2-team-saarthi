@@ -1,0 +1,25 @@
+================================================================================
+                   SARTHI DIGITAL FORENSICS INVESTIGATOR DOSSIER Notebook
+================================================================================
+CASE ID:        CASE-0025
+CASE TITLE:     OTP SCAM
+INVESTIGATOR:   Analyst (INV-8821-DELHI)
+VICTIM NAME:    Ramesh Kumar
+LOSS AMOUNT:    ₹2,00,000
+GENERATED ON:   2026-08-08 08:08:05
+STATUS:         IN_REVIEW
+--------------------------------------------------------------------------------
+CASE DESCRIPTION & INVESTIGATOR NOTES:
+"Ingested multimodal forensic case. Multi-agent analysis active."
+
+--------------------------------------------------------------------------------
+CHAIN OF CUSTODY & EVIDENCE CHECKSUMS (SHA-256):
+   (No exhibits attached yet)
+--------------------------------------------------------------------------------
+AUTOMATED AI ENSEMBLE SIGNALS:
+  - Neural TTS Voice Clone Agent:     Flagged (92% Confidence)
+  - Document Layout Forgery Agent:    Flagged (95% Confidence)
+  - Multi-Agent Topology Fusion:     Critical Risk (Score 88/100)
+================================================================================
+               [ CONFIDENTIAL • ISO 27037 FORENSIC EVIDENCE RECORD ]
+================================================================================

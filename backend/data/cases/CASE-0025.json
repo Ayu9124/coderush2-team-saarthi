@@ -1,0 +1,13 @@
+{
+  "case_id": "CASE-0025",
+  "caseId": "CASE-0025",
+  "title": "OTP SCAM",
+  "overall_risk_score": 85,
+  "status": "IN_REVIEW",
+  "victim": "Ramesh Kumar",
+  "loss_amount": "\u20b92,00,000",
+  "date": "08 Aug 2026",
+  "description": "Ingested multimodal forensic case. Multi-agent analysis active.",
+  "investigator_id": "INV-8821-DELHI",
+  "evidences": []
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "CASE-0015",
+  "caseId": "CASE-0015",
+  "title": "Investment Scam",
+  "overall_risk_score": 82,
+  "status": "IN_REVIEW",
+  "victim": "Priya S. (Redacted)",
+  "loss_amount": "\u20b98,50,000",
+  "date": "09 May 2025",
+  "description": "Deepfake AI voice & spoofed Telegram channel promoting high-yield crypto trading scam. Victims coerced into transferring \u20b98,50,000 to offshore liquidity pool.",
+  "investigator_id": "INV-8821-DELHI",
+  "evidences": [
+    {
+      "id": "audio-2",
+      "category": "audio",
+      "name": "Telegram Voice Call",
+      "sub": "0:45 - 2:15",
+      "hash": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4"
+    },
+    {
+      "id": "video-2",
+      "category": "video",
+      "name": "Crypto Wallet Transfer Log",
+      "sub": "(wallet_tx.mp4)",
+      "hash": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5"
+    },
+    {
+      "id": "doc-2",
+      "category": "document",
+      "name": "Investment Agreement",
+      "sub": "(contract.pdf)",
+      "hash": "e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6"
+    },
+    {
+      "id": "img-2",
+      "category": "image",
+      "name": "Fraudulent Ledger Screenshot",
+      "sub": "(proof.jpg)",
+      "hash": "f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9"
+    },
+    {
+      "id": "ev-1786152915",
+      "category": "video",
+      "name": "Screen Recording 2026-08-08 011549.mp4",
+      "sub": "(Screen Recording 2026-08-08 011549.mp4)",
+      "hash": "fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4",
+      "url": "/static-uploads/CASE-0015/Screen Recording 2026-08-08 011549.mp4"
+    }
+  ]
+}

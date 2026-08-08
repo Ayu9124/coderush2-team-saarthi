@@ -1,0 +1,37 @@
+{
+  "case_id": "CASE-0027",
+  "caseId": "CASE-0027",
+  "title": "VoIP Vishing Syndicate",
+  "overall_risk_score": 91,
+  "status": "LIVE_FEED_FLAGGED",
+  "victim": "Anil Deshmukh",
+  "loss_amount": "\u20b94,80,000",
+  "date": "08 Aug 2026",
+  "description": "[REALTIME TELEMETRY: CYBER_HELPLINE_1930] Intercepted 1930 helpline recording of automated deepfake caller impersonating HDFC Fraud Cell.\n\nGood Morning",
+  "investigator_id": "INV-8821-DELHI",
+  "evidences": [
+    {
+      "id": "ev-rt-1786146633",
+      "category": "audio",
+      "name": "Live_AUDIO_VOIP_Feed.wav",
+      "sub": "(CYBER_HELPLINE_1930)",
+      "hash": "80602840f302166702c67c82cd74374498bfe7bfcb3ef477b26c4b6ae791d675"
+    },
+    {
+      "id": "ev-1786152478",
+      "category": "image",
+      "name": "Screenshot 2026-08-08 061614.png",
+      "sub": "(Screenshot 2026-08-08 061614.png)",
+      "hash": "5da6d6dc0ffe2f102ee1c64216bf1b800a4bdf745b4b3108d8b70a4a0632f247",
+      "url": "/static-uploads/CASE-0027/Screenshot 2026-08-08 061614.png"
+    },
+    {
+      "id": "ev-1786152500",
+      "category": "video",
+      "name": "Screen Recording 2026-08-08 011549.mp4",
+      "sub": "(Screen Recording 2026-08-08 011549.mp4)",
+      "hash": "fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4",
+      "url": "/static-uploads/CASE-0027/Screen Recording 2026-08-08 011549.mp4"
+    }
+  ]
+}

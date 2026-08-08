@@ -1,0 +1,42 @@
+================================================================================
+                   SARTHI DIGITAL FORENSICS INVESTIGATOR DOSSIER Notebook
+================================================================================
+CASE ID:        CASE-0021
+CASE TITLE:     System  Hacking
+INVESTIGATOR:   Analyst (INV-8821-DELHI)
+VICTIM NAME:    Piysh Gosavi
+LOSS AMOUNT:    ₹2
+GENERATED ON:   2026-08-08 07:45:30
+STATUS:         IN_REVIEW
+--------------------------------------------------------------------------------
+CASE DESCRIPTION & INVESTIGATOR NOTES:
+"Ingested multimodal forensic case. Multi-agent analysis active."
+
+--------------------------------------------------------------------------------
+CHAIN OF CUSTODY & EVIDENCE CHECKSUMS (SHA-256):
+  [1] VIDEO: Screen Recording 2026-08-08 011549.mp4
+      SHA-256: fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4
+      PATH:    uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4
+  [2] DOCUMENT: Participants Handbook and Problem Statements.pdf
+      SHA-256: dd692d3471660f921964a4c3d19eae36f76391393e8adbd1777aea2c65726fea
+      PATH:    uploads/CASE-0021/Participants Handbook and Problem Statements.pdf
+  [3] VIDEO: Screen Recording 2026-08-08 011549.mp4
+      SHA-256: fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4
+      PATH:    uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4
+  [4] VIDEO: Screen Recording 2026-08-08 011549.mp4
+      SHA-256: fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4
+      PATH:    uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4
+  [5] IMAGE: Screenshot 2026-08-08 010313.png
+      SHA-256: 4835e22670b429205bd35f3168535318a7953d0e93002b052e0844a1a9c7c62f
+      PATH:    uploads/CASE-0021/Screenshot 2026-08-08 010313.png
+  [6] VIDEO: Screen Recording 2026-08-08 011549.mp4
+      SHA-256: fc4b6af5868dffee35ae818978b2af9154db5c22bb7a61eaded64e4cccf028c4
+      PATH:    uploads/CASE-0021/Screen Recording 2026-08-08 011549.mp4
+--------------------------------------------------------------------------------
+AUTOMATED AI ENSEMBLE SIGNALS:
+  - Neural TTS Voice Clone Agent:     Flagged (92% Confidence)
+  - Document Layout Forgery Agent:    Flagged (95% Confidence)
+  - Multi-Agent Topology Fusion:     Critical Risk (Score 88/100)
+================================================================================
+               [ CONFIDENTIAL • ISO 27037 FORENSIC EVIDENCE RECORD ]
+================================================================================
